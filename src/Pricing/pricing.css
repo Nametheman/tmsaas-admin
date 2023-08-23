@@ -1,0 +1,12 @@
+.biller{
+    display: flex;
+    align-items: center;
+   gap: 20px;
+}
+.biller .img{
+    height:90px
+}
+
+.adbiller{
+    height:50px
+}

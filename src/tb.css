@@ -1,0 +1,15 @@
+td{
+    height: 45px;
+    font-size: 14px;
+    text-align: center;
+    border-collapse: collapse;
+    border: none;
+}
+
+th{
+    height: 45px;
+    border: none;
+}
+tr{
+    border-collapse: collapse;
+}
